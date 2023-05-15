@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Unai González</h1>
-<h3 align="center">3D Artist and Front-end developer</h3>
+<h1 align="center">Hi 👋, I'm Unai González.</h1>
+<h3 align="center">3D Artist and Front-end developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unaigonzalezz&label=Profile%20views&color=ff7b00&style=flat" alt="unaigonzalezz" /> </p>
+
+<p align="left"> <a href="https://twitter.com/unaiitxuu" target="blank"><img src="https://img.shields.io/twitter/follow/unaiitxuu?logo=twitter&style=for-the-badge" alt="unaiitxuu" /></a> </p>
 
 - 🔭 I’m currently working on [StreamDeckify](https://github.com/unaigonzalezz/StreamDeckify)
 
@@ -28,6 +30,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/unaiitxuu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="unaiitxuu" /></a><a href="https://ko-fi.com/unaigonzalez"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="unaigonzalez" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unaigonzalezz&show_icons=true&locale=en&layout=compact" alt="unaigonzalezz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unaigonzalezz&show_icons=true&locale=en" alt="unaigonzalezz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=unaigonzalezz&show_icons=true&locale=en&layout=compact" alt="unaigonzalezz" /></p>
