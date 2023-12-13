@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [StreamDeckify](https://github.com/unaigonzalezz/StreamDeckify)
 
-- 🌱 I’m currently learning **React and C#**
+- 🌱 I’m currently learning **Angular and C#**
 
 - 👨‍💻 See my website! [https://unaigonzalez.es/](https://unaigonzalez.es/)
 
