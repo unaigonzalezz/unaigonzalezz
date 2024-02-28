@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/unaiitxuu" target="blank"><img src="https://img.shields.io/twitter/follow/unaiitxuu?logo=twitter&style=for-the-badge" alt="unaiitxuu" /></a> </p>
 
-- 🔭 I’m currently working on [StreamDeckify](https://github.com/unaigonzalezz/StreamDeckify)
+- 🔭 I’m currently working on [VATSIM Spain](https://vatsimspain.es/)
 
 - 🌱 I’m currently learning **Angular and C#**
 
 - 👨‍💻 See my website! [https://unaigonzalez.es/](https://unaigonzalez.es/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Java, Python and MySQL**
-
-- 📫 How to reach me **https://unaigonzalez.es/links**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java, React, PHP, Python and MySQL**
 
 - ⚡ Fun fact **I'm developer, I'm not funny :(**
 
